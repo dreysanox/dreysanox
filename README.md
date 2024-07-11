@@ -23,8 +23,8 @@ In order to grasp some of the profound world of cibersecurity, I invest my free 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+<!--- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] --->
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
