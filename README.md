@@ -11,7 +11,7 @@ In order to grasp some of the profound world of cibersecurity, I invest my free 
 ## Projects
 
 ### Completed projects
-- <a href="https://github.com/dreysanox/ToolSave"> ToolSave: </a>
+- <a href="https://github.com/dreysanox/ToolSave"> ToolSave</a>:
 ToolSave is a python terminal tool that helps you save weird or unique commands that you know you will need in the future, and when you do, you dont want to go scouring the whole web for them. It saves everything in json format, so that the files can be easily transfered and used on any other machine.
 
 ### Projects in the making
