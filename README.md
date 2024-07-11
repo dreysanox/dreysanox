@@ -18,12 +18,10 @@ In order to grasp some of the profound world of cibersecurity, I invest my free 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Java          | <a href="https://google.com">Detection Lab</a>|
-| C | <a href="https://google.com">Detection Lab</a>|
-| Python        | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Java          | <a> </a>|
+| C | <a> </a>|
+| Python        | <a href="https://github.com/dreysanox/ToolSave"> ToolSave </a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
