@@ -16,7 +16,6 @@ ToolSave is a python terminal tool that helps you save weird or unique commands 
 
 ### Projects in the making
 - Low Interaction Honeypots
-- Wazuh Home Siem
 
 ## Skills
 <!--- <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> --->
