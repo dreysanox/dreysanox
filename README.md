@@ -19,7 +19,7 @@ ToolSave is a python terminal tool that helps you save weird or unique commands 
 - Wazuh Home Siem
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!--- <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> --->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -47,7 +47,7 @@ ToolSave is a python terminal tool that helps you save weird or unique commands 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 
 </div>
